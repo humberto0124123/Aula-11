@@ -1,6 +1,7 @@
 # 🚀 Aula-11 - Landing Page com Tailwind CSS
 
-![Landing Page Preview](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80)
+<img width="1914" height="955" alt="Captura de tela 2025-10-13 195416" src="https://github.com/user-attachments/assets/b624453d-9dba-4678-87eb-387aa1f7e88a" />
+
 
 Uma landing page moderna e responsiva desenvolvida com **Tailwind CSS**, apresentando um design elegante com gradientes, efeitos de vidro e animações suaves.
 
@@ -12,13 +13,7 @@ Uma landing page moderna e responsiva desenvolvida com **Tailwind CSS**, apresen
 - 🎭 **Efeitos Visuais**: Backdrop blur, hover effects e transições suaves
 - 🌈 **Paleta de Cores**: Esquema de cores em tons de roxo e rosa
 
-## 🖼️ Preview do Projeto
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" alt="Landing Page Design" width="800" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  
-  *Design moderno com gradientes roxo/rosa e efeitos glassmorphism*
-</div>
 
 ## 🛠️ Tecnologias Utilizadas
 
