@@ -1,6 +1,7 @@
 # 🚀 Aula-11 - Landing Page com Tailwind CSS
 
-<img width="1914" height="955" alt="Captura de tela 2025-10-13 195416" src="https://github.com/user-attachments/assets/b624453d-9dba-4678-87eb-387aa1f7e88a" />
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/a8e4aa68-e590-4463-8906-72ca35975309" />
+
 
 
 Uma landing page moderna e responsiva desenvolvida com **Tailwind CSS**, apresentando um design elegante com gradientes, efeitos de vidro e animações suaves.
